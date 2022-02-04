@@ -24,6 +24,8 @@ To achieve this, we have divided the workshop in 3 sections, each section having
   * Exercise 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe3HIsyyrCOzLrs38jTTQmz7ejL-95_Q?usp=sharing)<br>
 
 To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give a chance to work with an extensive dataset.<br>
+
 Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voJCAAGjyg2lBcyOCwXeviY5AyL6ZXDz?usp=sharing) <br>
+
 To find more resources on Pandas, go through the Readmore file in the repository.<br>
 Happy Learning!!<br>
