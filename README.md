@@ -8,19 +8,19 @@ To achieve this, we have divided the workshop in 3 sections, each section having
 
 Lecture 1.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xurGpO0F7jnq_9FhmX75-tcBbuvwGBQ?usp=sharing) <br>
 Exercise 1.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QTxGFZygrJPQ7kFLNZkDnbB4x4VROtYM?usp=sharing) <br>
-Lecture 1.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-Exercise 1.2:
-2. Universal functions in Pandas, Handling missing data
-Lecture 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OOa8_B2NYnncPmMpS0_px3QE0Wehi3jX?usp=sharing)
-Exercise 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymMCn1oWKAg7nrc3O9aW2f9enHwe8uTB?usp=sharing)
-Lecture 2.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1YVKOeD2XbVuKzies6nzGBdMcEZqCVA?usp=sharing)
-Exercise 2.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_7aCzniyTTjNNv3ZSoBHG7X1UlgEalwO?usp=sharing)
-3. Concatenating and Merging data in Pandas
-Lecture 3.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOWyDATNBwZkDuCAUaozji366GDGeIMK?usp=sharing)
-Exercise 3.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mSQ1_hJHgT4ritn4x_ew3W-7QRp8KwjH?usp=sharing)
-Lecture 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18M0qHyvNM-mHmmsQI_xgjiXZI_HHX175?usp=sharing)
-Exercise 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe3HIsyyrCOzLrs38jTTQmz7ejL-95_Q?usp=sharing)
-To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give a chance to work with an extensive dataset.
-Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voJCAAGjyg2lBcyOCwXeviY5AyL6ZXDz?usp=sharing)
-To find more resources on Pandas, go through the Readmore file in the repository.
-Happy Learning!!
+Lecture 1.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1peVsjgFS1cVlbkZjjXcasYKantA6wJGG?usp=sharing)<br>
+Exercise 1.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m84dfSBCK6mzMRXkjW5WelcS8wNZEf20?usp=sharing)<br>
+2. Universal functions in Pandas, Handling missing data<br>
+Lecture 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OOa8_B2NYnncPmMpS0_px3QE0Wehi3jX?usp=sharing)<br>
+Exercise 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ymMCn1oWKAg7nrc3O9aW2f9enHwe8uTB?usp=sharing)<br>
+Lecture 2.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1YVKOeD2XbVuKzies6nzGBdMcEZqCVA?usp=sharing)<br>
+Exercise 2.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_7aCzniyTTjNNv3ZSoBHG7X1UlgEalwO?usp=sharing)<br>
+3. Concatenating and Merging data in Pandas<br>
+Lecture 3.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOWyDATNBwZkDuCAUaozji366GDGeIMK?usp=sharing)<br>
+Exercise 3.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mSQ1_hJHgT4ritn4x_ew3W-7QRp8KwjH?usp=sharing)<br>
+Lecture 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18M0qHyvNM-mHmmsQI_xgjiXZI_HHX175?usp=sharing)<br>
+Exercise 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe3HIsyyrCOzLrs38jTTQmz7ejL-95_Q?usp=sharing)<br>
+To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give a chance to work with an extensive dataset.<br>
+Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voJCAAGjyg2lBcyOCwXeviY5AyL6ZXDz?usp=sharing)<br>
+To find more resources on Pandas, go through the Readmore file in the repository.<br>
+Happy Learning!!<br>
