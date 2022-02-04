@@ -1,4 +1,4 @@
-The aim of this workshop is to make you comfortable with the basics of Pandas in a hands-on way where we combine the both interactive lectures and intense coding exercises to make sure you get the knowledge as well as the practice to master the basic of Pandas.
+The aim of this workshop is to make you comfortable with the basics of Pandas in a hands-on way where we combine both the interactive lectures and the intense coding exercises to make sure you get the knowledge as well as the practice to master the basics of Pandas.
 
 Throughout the workshop we will cover many aspects of Pandas like loading datasets, working with Pandas objects like Series and DataFrames, doing basic data manipulations and combining data from different sources to create more interesting datasets!
 
@@ -23,7 +23,7 @@ To achieve this, we have divided the workshop in 3 sections, each section having
   * Lecture 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18M0qHyvNM-mHmmsQI_xgjiXZI_HHX175?usp=sharing)<br>
   * Exercise 3.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fe3HIsyyrCOzLrs38jTTQmz7ejL-95_Q?usp=sharing)<br>
 
-To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give a chance to work with an extensive dataset.<br>
+To further cement your understanding, we have a Homework Notebook which will cover all the topics from the lecture and give you a chance to work with an extensive dataset.<br>
 
 Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1voJCAAGjyg2lBcyOCwXeviY5AyL6ZXDz?usp=sharing) <br>
 
