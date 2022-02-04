@@ -6,7 +6,7 @@ To achieve this, we have divided the workshop in 3 sections, each section having
 
 1. **Pandas Series, DataFrames, Indexing in Pandas**<br>
 
-  Lecture 1.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xurGpO0F7jnq_9FhmX75-tcBbuvwGBQ?usp=sharing) <br>
+  &nbsp;Lecture 1.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xurGpO0F7jnq_9FhmX75-tcBbuvwGBQ?usp=sharing) <br>
   Exercise 1.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QTxGFZygrJPQ7kFLNZkDnbB4x4VROtYM?usp=sharing) <br>
   Lecture 1.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1peVsjgFS1cVlbkZjjXcasYKantA6wJGG?usp=sharing)<br>
   Exercise 1.2: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m84dfSBCK6mzMRXkjW5WelcS8wNZEf20?usp=sharing)<br>
