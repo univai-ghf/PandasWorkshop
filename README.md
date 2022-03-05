@@ -1,3 +1,5 @@
+# Pandas For Data Science Workshop
+
 The aim of this workshop is to make you comfortable with the basics of Pandas in a hands-on way where we combine both the interactive lectures and the intense coding exercises to make sure you get the knowledge as well as the practice to master the basics of Pandas.
 
 Throughout the workshop we will cover many aspects of Pandas like loading datasets, working with Pandas objects like Series and DataFrames, doing basic data manipulations and combining data from different sources to create more interesting datasets!
