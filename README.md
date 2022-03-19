@@ -18,7 +18,7 @@ To achieve this, we have divided the workshop in 4 sections, each section having
 
 2.1 **Universal functions in Pandas, Handling missing data**<br>
 
-  * Lecture 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/PandasWorkshop/blob/main/Lectures/Lec2_1.ipynb)<br>
+  * Lecture 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QWTHP-AZoPcTgf2196WxLHNI8zC2z_Qg?usp=sharing)<br>
   * Exercise 2.1: [![Open Lecture In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/PandasWorkshop/blob/main/Exercise/Exc2_1.ipynb)<br>
 
 2.2 **Concat, Merge and Join**<br>
